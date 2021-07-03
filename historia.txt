@@ -5,3 +5,5 @@ Carlos tiene 36 años
 Y esta es la historia de su vida
 
 Carlos es CEO de NG
+
+Ahora contrato al usuario cgarcia286 de github para que colabore en su proyecto
