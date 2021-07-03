@@ -25,6 +25,11 @@ body
     font-size: 0.8em;
 }
 
+#cabecera p {
+    display: inline-block;
+    font-size: 0.8rem;
+}
+
 #container
 {
     width: 70%;
