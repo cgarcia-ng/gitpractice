@@ -6,4 +6,4 @@ Y esta es la historia de su vida
 
 Carlos es CEO de NG
 
-Ahora contrato al usuario cgarcia286 de github para que colabore en su proyecto
+El usuario cgarcia286 contribuye a este proyecto OpenSource
